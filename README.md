@@ -1,4 +1,4 @@
-# Ce dépôt est dédié à la validation du séminaire [Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)](https://pgc.unige.ch/main/teachings/details/2025-32M7128?year=2025&fac=default-value).
+## Ce dépôt est dédié à la validation du séminaire [Bibliothèques numériques, I. Gestion de projet (conception, partage, archivage)](https://pgc.unige.ch/main/teachings/details/2025-32M7128?year=2025&fac=default-value).
 
 Nous avons utilisé [**eScriptorium**](https://fondue.unige.ch/)  pour transcrire 12 pages d'un cachier manuscrit.
 
