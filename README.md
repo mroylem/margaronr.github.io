@@ -1,6 +1,6 @@
 # Transcription d'un manuscrit avec eScriptorium
 
-<https://github.com/mroylem/margaronr.github.io/blob/main/images_compl%C3%A8tes/Photo%20du%20cahier%20ferm%C3%A9.pdf>
+[](https://github.com/mroylem/margaronr.github.io/blob/main/images_compl%C3%A8tes/Photo%20du%20cahier%20ferm%C3%A9.pdf)
 
 ## Introduction
 
@@ -29,11 +29,12 @@ Enfin, nous avons transcrit dans la couche "manual" de eScriptorium les pages du
 
 Enfin, le dépôt Github et sa Page (site internet) ont été créés afin de présenter notre travail.
 
-## Documents à consulter : Transcriptions et les Commentaires.
+## Transcriptions et les Commentaires.
 
 Les images d'orgines du manuscrit se trouvent [ICI](https://github.com/mroylem/margaronr.github.io/tree/main/images_compl%C3%A8tes).
 
-Pour les transcriptions, le dossier est accessible [LA](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions). Nous avons extrait les pages au trois formats possibles depuis eScriptorium : [XML](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_XML); [TXT](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_TXT) ; [ALTO](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_ALTO).
+Pour les transcriptions, le dossier est accessible [LA](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions). 
+Nous avons extrait les pages au trois formats possibles depuis eScriptorium : [XML](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_XML); [TXT](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_TXT) ; [ALTO](https://github.com/mroylem/margaronr.github.io/tree/main/transcriptions/transcriptions_ALTO).
 
 Les commentaires sur la transcription sont consultables [ICI](https://github.com/mroylem/margaronr.github.io/blob/main/Commentaires%20pour%20la%20transcription_Romain%20Margaron.md)
 
@@ -42,7 +43,7 @@ Les commentaires sur la transcription sont consultables [ICI](https://github.com
 ## Equipe
 
 **Étudiant** [Romain Margaron](https://ch.linkedin.com/in/romain-margaron-1412b6140)
-Master [Patrimoine régional et Humanités numériques](https://www.unine.ch/formation/patrimoine-regional-et-humanites-numeriques)
+**Master** [Patrimoine régional et Humanités numériques](https://www.unine.ch/formation/patrimoine-regional-et-humanites-numeriques)
 [Université de Neuchâtel](https://www.unine.ch/)
 
 **Professeur**
