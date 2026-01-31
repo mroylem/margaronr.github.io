@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="yes"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2019-07-15/pagecontent.xsd">
+  <Metadata externalRef="pdf//P189-194_PV_comm_admin_Bel-Air_1907-1916.pdf">
+	<Creator>escriptorium</Creator>
+	<Created>2026-01-19T10:37:11.851398+00:00</Created>
+        <LastChange>2026-01-29T16:26:10.203284+00:00</LastChange>
+  </Metadata>
+  <Page imageFilename="P189-194_PV_comm_admin_Bel-Air_1907-1916.pdf_page_11.png" imageWidth="2550" imageHeight="3300">
+    <TextRegion id="eSc_textblock_c4693253"  custom="structure {type:MarginTextZone;}">
+      <Coords points="315,618 315,758 627,737 627,587"/>
+      <TextLine id="eSc_line_77ecac8f" custom="structure {type:CustomLine;}">
+        <Coords points="324,682 327,726 503,695 591,704 591,657 583,594 316,624 324,682"/>
+        <Baseline points="327,682 594,658"/>
+        <TextEquiv>
+          <Unicode>Affaire du chêne</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_3af76b69"  custom="structure {type:MainZone;}">
+      <Coords points="691,310 689,1352 2133,1371 2133,310"/>
+      <TextLine id="eSc_line_178536ee" custom="structure {type:default;}">
+        <Coords points="1760,310 1757,310 1755,310 1504,324 1383,310 1369,310 1342,310 1284,321 1254,310 1232,310 1204,310 1177,310 1149,310 1130,310 979,319 965,310 960,310 932,310 905,310 896,310 841,316 833,310 822,310 794,310 767,310 739,310 712,310 712,346 712,401 750,382 1240,407 1664,409 1666,409 1741,396 1760,412 1763,412 1766,412 1768,412 1854,393 2030,393 2032,363 2024,313 1788,327 1763,310 1760,310"/>
+        <Baseline points="715,348 1333,377 2034,365"/>
+        <TextEquiv>
+          <Unicode>si les années antérieures ne comptent pas pour le</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_10c0fc86" custom="structure {type:default;}">
+        <Coords points="731,423 728,456 1620,486 1622,486 2043,470 2046,440 2041,401 731,387 731,423"/>
+        <Baseline points="734,424 1395,463 2048,440"/>
+        <TextEquiv>
+          <Unicode>droit à la retraite. M^r. le Président répond que ce</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_62259158" custom="structure {type:default;}">
+        <Coords points="726,500 726,550 761,533 833,555 836,555 838,555 841,555 844,555 844,552 863,539 885,555 888,555 891,555 894,555 896,555 943,544 962,558 965,558 968,558 971,558 1067,539 1155,558 1158,558 1243,547 1270,563 1273,563 1276,563 1279,563 2046,558 2049,522 2043,486 726,462 726,500"/>
+        <Baseline points="727,502 1412,534 2050,523"/>
+        <TextEquiv>
+          <Unicode>mode de faire étant refusé à l&#x27;Hôpital il faut en</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac87b014" custom="structure {type:default;}">
+        <Coords points="723,583 720,616 1103,618 1108,596 1108,558 723,530 723,583"/>
+        <Baseline points="725,585 1110,597"/>
+        <TextEquiv>
+          <Unicode>faire de même.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7db607f7" custom="structure {type:default;}">
+        <Coords points="803,657 803,695 833,682 907,701 910,701 913,701 995,687 1064,704 1067,704 1070,704 1218,693 1411,712 1413,712 2079,709 2082,682 2079,627 1287,627 1268,610 1268,607 1265,607 1262,607 1259,607 1149,624 1105,605 1103,605 1100,605 1097,605 1064,618 1004,602 1001,602 998,602 995,602 943,618 803,618 803,657"/>
+        <Baseline points="805,658 1546,679 1546,679 2084,682"/>
+        <TextEquiv>
+          <Unicode>Au sujet du chêne abattu par le fermier M^r. le</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b92f9723" custom="structure {type:default;}">
+        <Coords points="701,731 698,767 2060,786 2065,761 2060,712 1969,720 1928,706 1925,706 1922,706 1920,706 1917,706 1900,720 1865,706 1862,706 1859,706 1856,706 1818,720 1785,704 1782,704 1779,704 1691,717 1609,701 1606,701 1603,701 1565,715 1496,698 1493,698 1490,698 1488,698 1441,712 1262,693 1259,693 1067,704 701,684 701,731"/>
+        <Baseline points="703,734 2067,762"/>
+        <TextEquiv>
+          <Unicode>Directeur met la Commission au courant de ce qui</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b8a86f4b" custom="structure {type:default;}">
+        <Coords points="728,814 726,838 1664,866 1738,852 1867,866 2093,855 2096,836 2093,794 2008,778 1999,778 1972,800 1903,786 1854,797 1766,775 1757,775 1713,794 1688,772 1614,770 1609,770 1565,792 1433,775 1312,789 1295,767 1199,786 1174,764 1163,764 1103,786 971,786 910,759 830,778 728,761 728,814"/>
+        <Baseline points="729,814 1454,838 2098,836"/>
+        <TextEquiv>
+          <Unicode>s&#x27;est passé. C&#x27;est le jardinier Berthet qui lui a</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_02a7e566" custom="structure {type:default;}">
+        <Coords points="734,880 731,921 1331,940 1878,929 1972,948 2063,932 2065,910 2057,852 1884,871 1821,849 1812,849 1763,866 1716,849 1628,866 1609,849 1598,849 1532,866 1512,847 1512,844 1361,863 1331,841 1320,841 1268,860 1210,841 1202,841 1166,860 1155,847 1042,858 1026,844 1026,841 1015,841 979,855 960,836 734,833 734,880"/>
+        <Baseline points="736,881 1278,902 1397,914 2067,912"/>
+        <TextEquiv>
+          <Unicode>dit qu&#x27;il pourrait le prendre, le travail reviendrait plus</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_7f708c7a" custom="structure {type:default;}">
+        <Coords points="726,970 723,990 2060,1012 2065,984 2060,935 2021,948 1911,932 1909,932 1834,948 1785,932 1782,932 1779,932 1777,932 1774,932 1755,948 1532,948 1455,926 1452,926 1449,926 1446,926 1444,926 1427,943 1380,929 1378,929 1375,929 1270,943 1185,924 1182,924 1067,940 1045,924 1042,924 1039,924 1037,924 951,937 726,918 726,970"/>
+        <Baseline points="727,971 2067,987"/>
+        <TextEquiv>
+          <Unicode>cher que cela ne vaut. Néanmoins désormais</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_5a698be8" custom="structure {type:default;}">
+        <Coords points="717,1045 715,1069 1744,1083 1749,1061 1749,1025 1620,1006 1617,1006 1540,1017 1523,1003 1521,1003 1518,1003 1515,1003 1413,1017 1196,1014 1174,998 1171,998 1169,998 1166,998 1163,998 1122,1014 1064,1014 1045,995 1042,995 1039,995 1037,995 949,1009 850,992 847,992 717,1001 717,1045"/>
+        <Baseline points="720,1047 1752,1063"/>
+        <TextEquiv>
+          <Unicode>il faudra demander avis à la direction.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_32511fd8" >
+        <Coords points="858,1130 858,1152 1587,1160 1589,1124 1584,1080 1380,1069 1378,1069 1254,1086 1213,1072 1210,1072 1207,1072 1204,1072 1152,1089 1116,1072 1114,1072 1111,1072 1108,1072 1105,1072 1081,1091 935,1091 918,1075 918,1072 916,1072 913,1072 910,1072 855,1072 858,1130"/>
+        <Baseline points="861,1131 1590,1125"/>
+        <TextEquiv>
+          <Unicode>Séance levée à 5.50</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_bf94c064"  custom="structure {type:SealZone;}">
+      <Coords points="698,1153 693,1357 1115,1366 1096,1155"/>
+      <TextLine id="eSc_line_1d1fd715" custom="structure {type:CustomLine;}">
+        <Coords points="874,1155 847,1155 819,1155 792,1155 764,1155 737,1155 709,1155 709,1196 706,1226 973,1232 979,1201 976,1157 885,1155 874,1155"/>
+        <Baseline points="711,1198 981,1204"/>
+        <TextEquiv>
+          <Unicode>Le Président</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_fd2268ca" custom="structure {type:CustomLine;}">
+        <Coords points="814,1289 811,1311 861,1331 863,1331 866,1331 869,1331 905,1322 943,1353 946,1353 949,1353 951,1353 954,1353 1006,1331 1026,1355 1028,1355 1028,1358 1031,1358 1034,1358 1037,1361 1070,1361 1075,1306 1072,1232 1006,1254 979,1229 979,1226 976,1226 973,1226 971,1226 968,1226 965,1226 929,1248 814,1243 814,1289"/>
+        <Baseline points="816,1290 1076,1307"/>
+        <TextEquiv>
+          <Unicode>J.Mussard</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_6af8470b"  custom="structure {type:SealZone;}">
+      <Coords points="1942,1262 1949,1158 1887,1158 1449,1158 1442,1253"/>
+      <TextLine id="eSc_line_5e83315b" custom="structure {type:CustomLine;}">
+        <Coords points="1854,1160 1837,1168 1807,1160 1790,1160 1763,1160 1741,1168 1529,1160 1515,1160 1488,1160 1460,1160 1460,1204 1457,1229 1801,1248 1804,1248 1873,1234 1876,1212 1867,1160 1854,1160"/>
+        <Baseline points="1461,1206 1877,1215"/>
+        <TextEquiv>
+          <Unicode>Le secrétaire</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_179ef122"  custom="structure {type:TitlePageZone;}">
+      <Coords points="869,1369 869,1477 1667,1477 1667,1369"/>
+      <TextLine id="eSc_line_6590e40b" custom="structure {type:HeadingLine;}">
+        <Coords points="1210,1369 1207,1369 1149,1388 990,1388 968,1369 962,1369 935,1369 907,1369 880,1369 880,1430 877,1449 1584,1457 1589,1438 1587,1380 1485,1372 1482,1372 1479,1372 1427,1391 1383,1372 1380,1372 1378,1372 1375,1372 1306,1388 1213,1369 1210,1369"/>
+        <Baseline points="883,1430 1590,1440"/>
+        <TextEquiv>
+          <Unicode>Séance du 12 Octobre 1915</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_d2b0c072"  custom="structure {type:MarginTextZone;}">
+      <Coords points="294,1733 298,1859 687,1868 706,1733"/>
+      <TextLine id="eSc_line_655e28f5" custom="structure {type:CustomLine;}">
+        <Coords points="528,1735 525,1735 500,1735 473,1735 467,1735 437,1762 365,1762 324,1735 316,1735 310,1795 308,1848 486,1848 519,1867 522,1867 525,1867 528,1867 676,1848 679,1820 679,1757 602,1749 599,1749 596,1749 594,1749 572,1765 530,1735 528,1735"/>
+        <Baseline points="313,1798 373,1817 681,1821"/>
+        <TextEquiv>
+          <Unicode>Evasion Raphaël</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_89857298"  custom="structure {type:MainZone;}">
+      <Coords points="689,1461 673,3076 2121,3085 2112,1466"/>
+      <TextLine id="eSc_line_67545393" custom="structure {type:default;}">
+        <Coords points="1881,1465 1854,1465 1826,1465 1804,1465 1521,1474 1009,1463 1001,1463 973,1463 946,1463 918,1463 891,1463 863,1463 836,1463 808,1463 781,1463 753,1463 753,1504 750,1531 1900,1540 1906,1512 1900,1465 1881,1465"/>
+        <Baseline points="756,1506 1907,1515"/>
+        <TextEquiv>
+          <Unicode>Présidence de M^r. le conseilleur d&#x27;état Mussard</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_1677312b" custom="structure {type:default;}">
+        <Coords points="723,1578 720,1606 1909,1625 1914,1595 1914,1553 1763,1551 1713,1529 1711,1529 1708,1529 1518,1548 1463,1526 1460,1526 1457,1526 1160,1542 1125,1520 1122,1520 1119,1520 1116,1520 1114,1520 1034,1540 723,1520 723,1578"/>
+        <Baseline points="726,1581 1916,1596"/>
+        <TextEquiv>
+          <Unicode>Présents MM. Mussard, Bochet, D^r. Falquet,</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_a1c8edcb" custom="structure {type:default;}">
+        <Coords points="693,1658 690,1688 2052,1696 2057,1666 2057,1622 2041,1603 1944,1619 1925,1603 1837,1603 1829,1603 1801,1625 1617,1625 1595,1606 1595,1603 1581,1603 1559,1622 1477,1622 1455,1603 1455,1600 1284,1622 1171,1622 1105,1597 1050,1597 1050,1600 1031,1617 940,1597 891,1617 844,1597 838,1597 693,1611 693,1658"/>
+        <Baseline points="694,1659 2059,1667"/>
+        <TextEquiv>
+          <Unicode>D^r. Mégévand, Navazza, Perthon, Besson, D^r Weber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_f2994f6a" custom="structure {type:default;}">
+        <Coords points="720,1732 717,1757 927,1757 929,1738 927,1672 883,1669 880,1669 877,1669 874,1669 874,1672 855,1691 805,1666 803,1666 800,1666 797,1666 794,1666 767,1688 720,1680 720,1732"/>
+        <Baseline points="722,1734 932,1738"/>
+        <TextEquiv>
+          <Unicode>&amp; Couchet.</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_91baf7cc" custom="structure {type:default;}">
+        <Coords points="753,1809 750,1839 2052,1842 2057,1820 2052,1765 1628,1771 1611,1757 1611,1754 1609,1754 1606,1754 1510,1754 1507,1754 1504,1754 1471,1771 1433,1754 1430,1754 1427,1754 1424,1754 1422,1754 1402,1771 1246,1751 1243,1751 1240,1751 1237,1751 1215,1771 1081,1771 995,1754 993,1754 927,1765 910,1751 910,1749 907,1749 905,1749 902,1749 753,1760 753,1809"/>
+        <Baseline points="754,1811 2059,1821"/>
+        <TextEquiv>
+          <Unicode>M^r. le directeur se plaint de l&#x27;évasion du lné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b133eca4" custom="structure {type:default;}">
+        <Coords points="693,1883 690,1911 1986,1919 1991,1903 1986,1850 1845,1856 1821,1839 1818,1839 1815,1839 1812,1839 1810,1839 1771,1853 1755,1839 1752,1839 1749,1839 1746,1839 1631,1853 1614,1831 1611,1831 1611,1828 1609,1828 1606,1828 1603,1828 1367,1848 1342,1828 1342,1826 1339,1826 1336,1826 1290,1826 1287,1826 1284,1826 1281,1826 1246,1848 1180,1834 1177,1834 1001,1842 973,1823 971,1823 968,1823 965,1823 962,1823 905,1842 872,1817 869,1817 866,1817 863,1817 693,1826 693,1883"/>
+        <Baseline points="694,1886 1993,1903"/>
+        <TextEquiv>
+          <Unicode>Raphaël qui a été transféré de St-Antoine à</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_e795d0a7" custom="structure {type:default;}">
+        <Coords points="693,1966 690,1991 2052,1996 2057,1969 2052,1914 1876,1927 1856,1911 1845,1911 1785,1927 1719,1911 1666,1927 1625,1911 1614,1911 1592,1927 1479,1908 1306,1925 1265,1908 1257,1908 1199,1925 1155,1908 1144,1908 1127,1922 1105,1905 943,1922 852,1908 814,1922 715,1905 693,1916 693,1966"/>
+        <Baseline points="694,1967 971,1962 2059,1971"/>
+        <TextEquiv>
+          <Unicode>Bel-Air le 18.8.15 lné avait été condamné</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_b4bec8a1" custom="structure {type:default;}">
+        <Coords points="720,2040 717,2065 949,2076 1092,2059 1347,2079 1400,2062 1441,2079 1611,2065 1639,2081 1856,2068 1870,2081 1876,2081 1878,2084 2027,2084 2030,2048 2024,1988 1936,2004 1917,1988 1917,1985 1829,1985 1766,2004 1741,1985 1733,1985 1620,2004 1595,1985 1581,1985 1565,1999 1493,1985 1457,2004 1345,2004 1314,1982 1204,1996 1116,1980 1108,1980 1083,1999 720,1985 720,2040"/>
+        <Baseline points="722,2042 2031,2051"/>
+        <TextEquiv>
+          <Unicode>pr espionnage. M^r. Navazza annonce que l&#x27;enquête</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_ac015ecc" custom="structure {type:default;}">
+        <Coords points="715,2117 712,2145 2057,2147 2063,2125 2063,2087 2035,2068 1931,2090 1843,2090 1823,2068 1812,2068 1768,2087 1664,2087 1617,2065 1540,2065 1515,2084 1452,2070 1444,2070 1435,2081 1422,2068 1281,2081 1213,2065 1174,2084 1152,2065 1152,2062 1144,2062 960,2081 715,2073 715,2117"/>
+        <Baseline points="716,2119 2064,2128"/>
+        <TextEquiv>
+          <Unicode>judiciaire n&#x27;aboutira pas à gran&#x27;chose. D&#x27;autre</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_42653cbd" custom="structure {type:default;}">
+        <Coords points="734,2191 731,2222 1006,2216 1020,2227 1020,2230 1023,2230 1026,2230 1028,2233 1207,2233 1207,2230 1347,2213 1446,2230 1449,2230 1532,2216 1975,2230 1980,2197 1977,2147 734,2139 734,2191"/>
+        <Baseline points="737,2194 1982,2199"/>
+        <TextEquiv>
+          <Unicode>part M^r. Navazza fait remarquer que ls travaux</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_35b16f7b" custom="structure {type:default;}">
+        <Coords points="709,2277 706,2304 874,2293 951,2318 962,2318 1001,2293 1034,2307 1127,2293 1169,2318 1182,2318 1221,2296 1243,2315 1243,2318 1251,2321 1345,2321 1345,2318 1350,2318 1350,2315 1375,2293 1529,2310 1581,2293 1600,2312 1722,2293 1757,2315 1821,2304 1837,2318 1843,2318 1845,2321 2021,2321 2024,2279 2021,2241 1931,2241 1906,2219 1895,2219 1845,2238 1799,2222 1788,2222 1760,2241 1633,2241 1606,2219 1518,2235 1345,2219 1199,2219 1171,2241 1114,2241 1094,2222 1094,2219 1083,2219 1012,2238 949,2219 938,2219 938,2222 918,2241 753,2241 734,2219 720,2219 709,2227 709,2277"/>
+        <Baseline points="711,2278 2027,2282"/>
+        <TextEquiv>
+          <Unicode>sont insuffisants ; il n&#x27;y a pas de cellules</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_affdead1" custom="structure {type:InterlinearLine;}">
+        <Coords points="1702,2197 1675,2197 1647,2197 1620,2197 1620,2227 1614,2255 1724,2260 1730,2235 1727,2197 1702,2197"/>
+        <Baseline points="1622,2229 1731,2237"/>
+        <TextEquiv>
+          <Unicode>assez de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_3e5a7a5a" custom="structure {type:default;}">
+        <Coords points="698,2348 698,2387 803,2370 822,2384 825,2384 827,2384 830,2384 833,2384 891,2370 1265,2384 1270,2345 1265,2307 993,2288 990,2288 987,2288 984,2288 965,2301 927,2290 924,2290 921,2290 808,2304 717,2288 715,2288 712,2288 709,2288 695,2296 698,2348"/>
+        <Baseline points="701,2351 1271,2346"/>
+        <TextEquiv>
+          <Unicode>fortes pour les dangereux</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_06e174b1" custom="structure {type:default;}">
+        <Coords points="767,2409 764,2447 1235,2455 1237,2455 1303,2442 1485,2458 1488,2458 1490,2458 1493,2458 1493,2455 1507,2444 1609,2444 2071,2461 2076,2425 2074,2370 1898,2387 1851,2367 1848,2367 1845,2367 1705,2384 1595,2365 1592,2365 1589,2365 1554,2381 1386,2362 1303,2362 1301,2362 1298,2362 1295,2362 1295,2365 1279,2378 1204,2365 1202,2365 1199,2365 1166,2378 767,2367 767,2409"/>
+        <Baseline points="769,2409 1037,2427 1399,2416 2079,2426"/>
+        <TextEquiv>
+          <Unicode>M^r. Besson est frappé des propos de M^r. le D^r. Weber</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dfb9dac6" custom="structure {type:default;}">
+        <Coords points="698,2502 695,2527 1380,2521 1463,2535 1466,2538 2065,2538 2068,2508 2063,2444 1928,2466 1818,2466 1774,2444 1771,2444 1768,2444 1766,2444 1711,2464 1595,2444 1592,2444 1389,2464 1361,2444 1358,2444 1356,2444 1353,2444 1276,2461 1240,2442 1237,2442 1235,2442 1232,2442 1191,2464 1056,2464 1034,2444 1034,2442 1031,2442 1028,2442 1026,2442 698,2458 698,2502"/>
+        <Baseline points="701,2503 2070,2509"/>
+        <TextEquiv>
+          <Unicode>&amp; de M^r. le Procureur général. Il demande que cette</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_dac7333a" custom="structure {type:default;}">
+        <Coords points="687,2576 684,2604 1248,2596 1411,2612 1433,2596 1556,2596 1653,2615 1661,2615 1686,2598 1790,2615 1799,2615 1815,2601 2065,2612 2071,2585 2068,2543 1988,2524 1884,2524 1859,2543 1694,2543 1664,2527 1653,2527 1636,2541 1611,2521 1518,2541 1466,2541 1449,2521 1435,2521 1416,2538 1378,2521 1273,2521 1257,2541 1174,2541 1130,2519 1004,2538 872,2538 844,2519 833,2519 772,2535 687,2530 687,2576"/>
+        <Baseline points="688,2578 2074,2586"/>
+        <TextEquiv>
+          <Unicode>question des cellules soit élucidée. Avons-nous besoins de</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_d338352b" custom="structure {type:default;}">
+        <Coords points="728,2651 726,2684 935,2692 943,2692 979,2670 1004,2684 1012,2684 1045,2670 1064,2692 1177,2678 1287,2692 1287,2689 1312,2670 1551,2670 1589,2689 1598,2689 1650,2673 1686,2686 1892,2673 1999,2692 2019,2675 2021,2653 2019,2604 1504,2593 1452,2609 1273,2596 1193,2609 1166,2596 1160,2596 1097,2609 1078,2593 965,2607 924,2593 833,2609 805,2593 797,2593 728,2607 728,2651"/>
+        <Baseline points="729,2653 2023,2655"/>
+        <TextEquiv>
+          <Unicode>cellules pr ls dangereux, ou non ? M^r. Weber dit</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_0b7954d7" custom="structure {type:default;}">
+        <Coords points="693,2733 693,2766 775,2750 960,2766 962,2766 1191,2750 1248,2763 1251,2763 1254,2763 1257,2763 1301,2747 1433,2747 1455,2763 1457,2763 1460,2763 1463,2763 1543,2750 1900,2761 1903,2728 1892,2673 1845,2686 1810,2673 1807,2673 1804,2673 1705,2686 1617,2673 1614,2673 1510,2686 1369,2673 1367,2673 1199,2689 690,2684 693,2733"/>
+        <Baseline points="694,2734 1905,2728"/>
+        <TextEquiv>
+          <Unicode>que installer une division à fermé pr ls</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_4e4bb4d9" custom="structure {type:default;}">
+        <Coords points="704,2805 701,2832 827,2829 866,2843 877,2843 905,2821 1001,2838 1103,2824 1130,2843 1210,2846 1213,2849 1254,2849 1254,2846 1259,2846 1259,2843 1281,2824 1628,2824 1694,2849 1837,2849 1837,2846 1911,2827 1936,2843 2024,2838 2027,2766 1997,2747 1986,2747 1909,2769 1829,2769 1790,2747 1782,2747 1733,2766 1644,2752 1589,2763 1551,2747 1477,2763 1457,2747 1353,2747 1325,2769 1235,2769 1174,2747 1163,2747 1144,2769 1078,2769 1045,2752 907,2763 894,2750 885,2750 759,2763 737,2747 737,2744 723,2744 704,2755 704,2805"/>
+        <Baseline points="705,2807 1513,2802 2029,2814"/>
+        <TextEquiv>
+          <Unicode>criminels serait couteux. M^r. Besson propose la</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_636dee64" custom="structure {type:default;}">
+        <Coords points="706,2879 704,2906 979,2909 982,2909 984,2909 1039,2895 1191,2895 1204,2909 1204,2912 1207,2912 1210,2912 1213,2912 1306,2898 1325,2912 1328,2912 1331,2912 1334,2912 1562,2901 1589,2917 1592,2917 1595,2917 1598,2917 1708,2904 1724,2917 1727,2917 1730,2917 1733,2920 2038,2920 2041,2893 2038,2849 706,2821 706,2879"/>
+        <Baseline points="709,2880 1324,2874 2042,2895"/>
+        <TextEquiv>
+          <Unicode>nomination d&#x27;une commission ; cette commission serait</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_8a9fb3c0" custom="structure {type:default;}">
+        <Coords points="1072,2920 907,2920 902,2912 883,2912 866,2893 772,2909 715,2895 712,2989 965,2994 998,2981 1056,2994 1067,2994 1094,2975 1182,2997 1268,2972 1298,2986 1631,2978 1705,2997 1801,2992 1829,3008 1843,3008 1865,2992 1975,3000 1980,2978 1975,2917 1870,2926 1788,2901 1702,2915 1485,2898 1466,2917 1339,2917 1171,2893 1114,2915 1075,2912 1072,2920"/>
+        <Baseline points="716,2955 1427,2949 1982,2979"/>
+        <TextEquiv>
+          <Unicode>composer de la Sm.commission de l&#x27;intérieur</Unicode>
+        </TextEquiv>
+      </TextLine>
+      <TextLine id="eSc_line_be2e03c4" custom="structure {type:InterlinearLine;}">
+        <Coords points="888,2917 888,2942 1092,2945 1094,2917 1094,2884 888,2882 888,2917"/>
+        <Baseline points="889,2918 1097,2919"/>
+        <TextEquiv>
+          <Unicode>des membres</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+    <TextRegion id="eSc_textblock_c0e249e7"  custom="structure {type:MarginTextZone;}">
+      <Coords points="322,2346 322,2498 672,2498 672,2346"/>
+      <TextLine id="eSc_line_2fccfac6" custom="structure {type:CustomLine;}">
+        <Coords points="338,2420 335,2447 519,2491 522,2491 638,2472 640,2433 640,2373 583,2359 580,2359 577,2359 431,2370 341,2348 338,2420"/>
+        <Baseline points="341,2421 641,2434"/>
+        <TextEquiv>
+          <Unicode>Cellules fortes</Unicode>
+        </TextEquiv>
+      </TextLine>
+    </TextRegion>
+  </Page>
+</PcGts>
