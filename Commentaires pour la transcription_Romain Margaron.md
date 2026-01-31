@@ -1,8 +1,8 @@
-# Transcription du PV de l'admin. Bel-Air - 197-1916
+# Transcription du Procès-Verbal de la Commission Bel-Air - 1907-1916
 
 La transcription a été réalisée par Romain Margaron, étudiant en Master Humanité numérique et Patrimoine régional de _l'Université de Neuchâtel_, dans le cadre du cours de Monsieur Simon Gabay, Bibliothèque numérique I donné à _l'Université de Genève_.
 
-Le manuscrit utilisé est le _Procès - Verbal de la commission Bel-Air - Commencé le 9 Juillet 1907. Terminé le 9 Mai 1916._
+Le manuscrit utilisé est le _Procès - Verbal de la Commission Bel-Air - Commencé le 9 Juillet 1907. Terminé le 9 Mai 1916._
 
 Les douze pages transcrites sont les pages numéros 183 à 194. Parmi ces lignes nous avons rencontré trois secrétaires différents. Leurs habitudes d'écriture et d'abréviation étaient différentes donc nous avons dû harmoniser notre transcription afin d'obtenir un texte cohérent dans son ensemble.
 

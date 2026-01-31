@@ -1,6 +1,6 @@
 # Transcription d'un manuscrit avec eScriptorium
 
-![Manuscrit](https://github.com/mroylem/margaronr.github.io/raw/main/images_compl%C3%A8tes/Cahier_PV_1907_1016.jpg)
+![eScriptorium](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_escriptorium.png/250px-Logo_escriptorium.png)
 
 ## Introduction
 
