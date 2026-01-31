@@ -4,7 +4,7 @@ Nous avons utilisé [**eScriptorium**](https://fondue.unige.ch/)  pour transcrir
 
 Le document s'intitule : _Procès - Verbal de la commission Bel-Air - Commencé le 9 Juillet 1907. Terminé le 9 Mai 1916._
 
-Nous avons transcris des pages 183 à 194.
+Nous avons transcrit des pages 183 à 194.
 
 **Étudiant** [Romain Margaron](https://ch.linkedin.com/in/romain-margaron-1412b6140)
 Master [Patrimoine régional et Humanités numériques](https://www.unine.ch/formation/patrimoine-regional-et-humanites-numeriques)
